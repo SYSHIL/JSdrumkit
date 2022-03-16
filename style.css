@@ -24,7 +24,7 @@ body,html {
   margin: 1rem;
   font-size: 1.5rem;
   padding: 1rem .5rem;
-  transition: all 1.07s;
+  transition: all .55s;
   width: 10rem;
   text-align: center;
   color: white;
@@ -33,9 +33,9 @@ body,html {
 }
 
 .playing {
-  transform: scale(1.8);
-  border-color: #ffc600;
-  box-shadow: 0 0 1rem #ffc600;
+  transform: scale(1.1);
+  border-color: #6be5f5;
+  box-shadow: 0 0 1rem #58beee;
 }
 
 kbd {
